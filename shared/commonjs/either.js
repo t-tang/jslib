@@ -1,4 +1,3 @@
-'use strict'
 
 const Either = {
     Left: (value) => ({
@@ -21,4 +20,4 @@ const Either = {
     })
 }
 
-export default Either;
+module.exports = Either

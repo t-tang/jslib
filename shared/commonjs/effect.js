@@ -3,4 +3,4 @@ const effect = (fn) => (arg) =>  {
     return arg
 }
 
-export default effect;
+module.exports = effect
